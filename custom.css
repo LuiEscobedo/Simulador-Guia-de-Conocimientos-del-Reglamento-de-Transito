@@ -1,0 +1,20 @@
+.title{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.questions{
+    padding-top: 2%;
+}
+
+.ir-arriba {
+	display:none;
+    padding: 20px;
+    background: #00d0ff;
+    font-size: 45px;
+    color: #fff;
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 50px;
+}

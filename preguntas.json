@@ -1,0 +1,543 @@
+[
+    {
+        "id":"1",
+        "pregunta": "Las señales de tránsito se clasifican en:",
+        "opciones": [
+            "Preventivas (Amarillas), Restrictivas (Rojas con negro), Informativas (Azules)",
+            "Preventivas (Rojas con negro), Restrictivas (Azules), Informativas (Amarillas)",
+            "Preventivas (Azules), Restrictivas (Amarillas), Informativas (Rojas con negro)"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"2",
+        "pregunta": "¿Cuántos pasajeros pueden viajar dentro de un vehículo?:",
+        "opciones": [
+            "Los que puedan entrar en el vehículo",
+            "Los indicados en la tarjeta de circulación",
+            "los indicados en la matricula"
+        ],
+        "respuesta": "2"
+    },
+    {
+        "id":"3",
+        "pregunta": "Por conducir sin licencia, se hace acreedor a una multa consiste en:",
+        "opciones": [
+            "20 horas de salario mínimo",
+            "20 días de salario mínimo",
+            "20 días de salario máximo"
+        ],
+        "respuesta": "2"
+    },
+    {
+        "id":"4",
+        "pregunta": "¿Quién está obligado a utilizar el cinturón de seguridad dentro de un vehículo?",
+        "opciones": [
+            "El copiloto y el chofer",
+            "Los pasajeros menores de edad",
+            "Todos los pasajeros del vehículo"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"5",
+        "pregunta": "En centros educativos, oficinas públicas hospitales o cualquier otro lugar de reunión ¿Cuál es el límite de velocidad permitido para circular?",
+        "opciones": [
+            "20 kilómetros por hora",
+            "20 metros por hora",
+            "20 kilómetros por minuto"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"6",
+        "pregunta": "¿Bajo qué circunstancias es permitida la vuelta a la derecha?",
+        "opciones": [
+            "Cuando se pueda",
+            "Siempre",
+            "En ningún caso"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"7",
+        "pregunta": "¿En qué lugares está prohibido el estacionamiento de cualquier tipo de vehículo?",
+        "opciones": [
+            "Plazas comerciales, estacionamientos públicos",
+            "Camellones, frente a rampas especiales de acceso a la banqueta para minusválidos, en más de una fila, andadores y otras vías reservadas a los peatones",
+            "En cualquier lugar"
+        ],
+        "respuesta": "2"
+    },
+    {
+        "id":"8",
+        "pregunta": "¿En qué caso a un vehículo matriculado fuera del Estado de México se le podrá retirar la placa de matrícula?",
+        "opciones": [
+            "Cuando se detecte con adeudos por infracciones al Reglamento de Tránsito",
+            "Cuando no se respete el hoy no circula",
+            "Cuando el vehículo tenga emisiones de carbono"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"9",
+        "pregunta": "¿En qué caso pueden circular los vehículos de servicio público por los carriles centrales de las vías primarias? ",
+        "opciones": [
+            "Siempre que sea necesario",
+            "Cuando el chofer así lo quiera",
+            "En ningún caso"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"10",
+        "pregunta": "Si un pasajero arroja basura hacia el exterior del vehículo; ¿Quién es el responsable y por lo tanto acreedor de la sanción? ",
+        "opciones": [
+            "El conductor del vehículo",
+            "La persona que arrojo la basura",
+            "Los ocupantes del vehículo"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"11",
+        "pregunta": "Qué tipos de vehículos podrán circular con los vidrios polarizados? ",
+        "opciones": [
+            "Cualquier vehículo",
+            "Los vehículos de emergencia",
+            "Los vehículos que vengan instalados con vidrios polarizados desde la fábrica"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"12",
+        "pregunta": "En las glorietas sin semáforos; ¿Quién tiene la preferencia? ",
+        "opciones": [
+            "Los vehículos que se incorporan",
+            "Los vehículos que ya se encuentren circulando en ella",
+            "El que vaya más rápido"
+        ],
+        "respuesta": "2"
+    },
+    {
+        "id":"13",
+        "pregunta": "En caso de que el vehículo produzca un ruido excesivo generado por el claxon o válvulas de escape; ¿Cuál será la sanción?",
+        "opciones": [
+            "Multa de 5 días de salario mínimo",
+            "Multa de 15 días de salario mínimo",
+            "Multa de 5 días de salario máximos"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"14",
+        "pregunta": "¿Qué casos están prohibidos realizar en la vía pública?",
+        "opciones": [
+            "Realizar fiestas o convivios",
+            "Realizar partidos de futbol",
+            "Efectuar carreras o “arrancones” o situar cualquier otro objeto que obstaculice o afecte la vialidad"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"15",
+        "pregunta": "Es una regla para los motociclistas y su acompañante",
+        "opciones": [
+            "El uso de celulares",
+            "El uso de casco y anteojos protectores",
+            "Tener luces"
+        ],
+        "respuesta": "2"
+    },
+    {
+        "id":"16",
+        "pregunta": "¿Cuándo deben de ir acompañados por una persona mayor, los menores de edad con un permiso provisional de práctica?",
+        "opciones": [
+            "Siempre, y el acompañante deberá ser mayor de edad",
+            "Siempre, y el acompañante deberá ser su padre o tutor",
+            "Siempre, y el acompañante deberá portar una licencia vigente"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"17",
+        "pregunta": "Todos los vehículos automotores de uso particular deberán contar con: ",
+        "opciones": [
+            "Póliza de seguro de responsabilidad civil vigente que ampare al menos daños a terceros en su persona y en su patrimonio",
+            "garantía del vehículo, tarjeta de circulación, factura de pago de derechos",
+            "Llanta de refacción, luces delanteras y traseras y gasolina"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"18",
+        "pregunta": "Son causas de cancelación de la licencia",
+        "opciones": [
+            "Manejar bajo los efectos de drogas enervantes o psicotrópicos, así como, conducir en estado de ebriedad",
+            "Hablar por teléfono o mandar mensajes",
+            "Estar cantando dentro del vehículo"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"19",
+        "pregunta": "¿Qué deben de hacer los conductores cuando el semáforo se encuentra en luz roja?",
+        "opciones": [
+            "Acelerar para pasar antes de que avancen los otros carros",
+            "Detenerse lo más cerca posible a la zona de peatones para no dejarlos pasar",
+            "Detener su vehículo en la línea de “alto”, sin invadir la zona para cruce de los peatones"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"20",
+        "pregunta": "¿Está permitido realizar llamadas por el celular mientras conduce un vehículo?",
+        "opciones": [
+            "Siempre esta permitido",
+            "No está permitido",
+            "Cuando sea una emergencia"
+        ],
+        "respuesta": "2"
+    },
+    {
+        "id":"21",
+        "pregunta": "¿En qué casos pueden circular los conductores de motocicletas por las banquetas y áreas reservadas a los peatones?",
+        "opciones": [
+            "Cuando los automóviles obstruyan su circulación",
+            "Cuando están libres para poder transitar",
+            "En ningún caso"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"22",
+        "pregunta": "¿Cuánto como máximo, puede sobresalir la carga de las dimensiones laterales de un vehículo?",
+        "opciones": [
+            "2 metros",
+            "1.5 metros",
+            "1 metro"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"23",
+        "pregunta": "¿Cuál es la sanción cuando un conductor no acata las restricciones de circulación de los programas ambientales?",
+        "opciones": [
+            "Multa de 20 días y retención del vehículo",
+            "Retención del vehículo",
+            "Multa de 20 días"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"24",
+        "pregunta": "¿Cuál es la sanción o multa por conducir un automotor, abrazado a una persona o a un objeto?",
+        "opciones": [
+            "Multa de 20 días de salario mínimo y retención del vehículo",
+            "Multa de 20 días de salario mínimo",
+            "Multa de 15 días de salario mínimo"
+        ],
+        "respuesta": "2"
+    },
+    {
+        "id":"25",
+        "pregunta": "¿Qué tipo de vehículos podrán circular en carriles de contraflujo?",
+        "opciones": [
+            "Vehículos de emergencia, patrullas, ambulancias y bomberos",
+            "vehículos particulares y de servicios privados",
+            "vehículos para personas con discapacidad"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"26",
+        "pregunta": "¿Qué sanción se aplica cuándo los datos de la placa no coinciden con los del engomado, la calcomanía o la tarjeta de circulación?",
+        "opciones": [
+            "Multa de 25 días y retención del vehículo",
+            "Multa de 15 días y retención del vehículo",
+            "Multa de 20 días y retención del vehículo"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"27",
+        "pregunta": "¿En qué casos deberán ser presentados ante las autoridades competentes, las personas y vehículos involucrados en un accidente? ",
+        "opciones": [
+            "Siempre",
+            "Cuando las partes no estén de acuerdo en la reparación de los daños",
+            "Nunca"
+        ],
+        "respuesta": "2"
+    },
+    {
+        "id":"28",
+        "pregunta": "Los conductores que violen lo dispuesto en el Reglamento de Tránsito y muestren síntomas de conducir en estado de ebriedad serán:",
+        "opciones": [
+            "Multa de 25 días y retención del vehículo",
+            "cancelación de Licencia de conducir",
+            "Presentados ante el Oficial calificador o autoridad competente"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"29",
+        "pregunta": "¿Es una obligación de los agentes de tránsito auxiliar de manera inmediata a todos aquellos conductores en caso de descompostura del vehículo?",
+        "opciones": [
+            "Sí, es su obligación",
+            "No, ellos no son mecánicos",
+            "Sí, pero tiene un costo extra"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"30",
+        "pregunta": "Cuando solo existan daños materiales en un accidente, el agente de tránsito está obligado a:",
+        "opciones": [
+            "Exhortar a los afectados, a fin de que lleguen a un arreglo inmediato para evitar el entorpecimiento de la circulación",
+            "Presentar a los involucrados con el juez calificador para determinar las sanciones",
+            "Llamar a la grúa para retirar los vehículos y multar a los involucrados"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"31",
+        "pregunta": "¿Cuál es el límite de alcohol espirado para los operadores de transportes de sustancias peligrosas, de carga o de transportes de pasajeros? ",
+        "opciones": [
+            "1.7 niveles de alcohol",
+            "Ninguna cantidad de alcohol en la sangre o en aire espirado",
+            "No hay limite"
+        ],
+        "respuesta": "2"
+    },
+    {
+        "id":"32",
+        "pregunta": "¿Qué procede cuando su vehículo tiene instaladas torretas, faros rojos, o dispositivos usados en vehículos de emergencia o patrullas?",
+        "opciones": [
+            "Multa de 25 días de salario mínimo",
+            "Multa de 15 días de salario mínimo",
+            "Multa de 20 días de salario mínimo"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"33",
+        "pregunta": "¿De qué color deberán ser las luces delanteras de los vehículos? ",
+        "opciones": [
+            "Blanco",
+            "Azul",
+            "Amarillas"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"34",
+        "pregunta": "Los vehículos no deberán portar en la parte trasera faros de qué color? ",
+        "opciones": [
+            "Blanco",
+            "Azul",
+            "Amarillas"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"35",
+        "pregunta": "Cuando un conductor, transite con un vehículo con llantas lisas o en mal estado, se procederá a:",
+        "opciones": [
+            "Multa de 20 días de salario mínimo",
+            "Multa de 10 días de salario mínimo",
+            "Multa de 5 días de salario mínimo"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"36",
+        "pregunta": "El Reglamento de Tránsito prevé disposiciones que deberán obedecer los peatones, en caso contrario será susceptible de ser:",
+        "opciones": [
+            "corralón",
+            "Amonestado",
+            "Regañado"
+        ],
+        "respuesta": "2"
+    },
+    {
+        "id":"37",
+        "pregunta": "¿Bajo qué circunstancias el conductor de un vehículo puede pasarse un semáforo en rojo?",
+        "opciones": [
+            "Solo si un oficial de tránsito lo indica",
+            "Siempre que pueda",
+            "Cuando no vengan vehículos"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"38",
+        "pregunta": "¿Para qué sirven las rayas longitudinales en el pavimento?",
+        "opciones": [
+            "Para avisar que puedes dar vuelta",
+            "Para no salirse de la carretera",
+            "Delimitan los carriles de circulación y guían a los conductores dentro de los mismos"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"39",
+        "pregunta": "¿Para qué sirven las rayas transversales en el pavimento?",
+        "opciones": [
+            "Indican el límite para las motos",
+            "Indican el límite de parada de los vehículos y delimitan la zona de cruce de peatones",
+            "Indican el límite donde se pueden parar los carros"
+        ],
+        "respuesta": "2"
+    },
+    {
+        "id":"40",
+        "pregunta": "Si el vehículo que conduce carece de direccionales o en su caso no funcionan, y requiere cambiar de dirección, deberá:",
+        "opciones": [
+            "Hacer la señal respectiva con el brazo izquierdo extendido hacia arriba, si el cambio es a la derecha y extendiéndolo hacia abajo, si va a hacerlo hacia la izquierda",
+            "No hacer nada y esperar a que no vengan carros para poder dar vuelta",
+            "Hacer movimientos con el volante para mover el carro"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"41",
+        "pregunta": "El conductor que se aproxime a un crucero de ferrocarril deberá hacer alto total a una distancia mínima de:",
+        "opciones": [
+            "2 metros del riel más cercano del cruce del ferrocarril",
+            "5 metros del riel más cercano del cruce del ferrocarril",
+            "10 metros del riel más cercano del cruce del ferrocarril"
+        ],
+        "respuesta": "2"
+    },
+    {
+        "id":"42",
+        "pregunta": "¿Qué función tienen los fantasmas o indicadores de alumbrado?",
+        "opciones": [
+            "Ayudar a iluminar la vialidad",
+            "Indicar el fin de un camino",
+            "Delimitan la orilla de los acotamientos"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"43",
+        "pregunta": "¿Cuál es el objeto de las señales restrictivas?",
+        "opciones": [
+            "Indicar determinadas limitaciones o prohibiciones que regulen el tránsito",
+            "Indicar prohibiciones en el camino",
+            "Indicar de información de servicio al conductor"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"44",
+        "pregunta": "¿En qué caso se permite efectuar carreras o arrancones en la vía pública?",
+        "opciones": [
+            "Cuando son días festivos",
+            "No están permitidos",
+            "Solo en las noches"
+        ],
+        "respuesta": "2"
+    },
+    {
+        "id":"45",
+        "pregunta": "¿En qué condiciones se permite la instalación y el uso de sistemas anti radares o detector de radares de velocidad?",
+        "opciones": [
+            "Bajo ninguna condición",
+            "Solo en vehículos de servicio privado",
+            "En vehículos de servicio público"
+        ],
+        "respuesta": "1"
+    },{
+        "id":"46",
+        "pregunta": "¿Sería una causa por la cual no se expida o reexpida una licencia y/o permiso para conducir?",
+        "opciones": [
+            "Cuando la documentación exhibida sea falsa o proporcionen informes falsos en la solicitud correspondiente",
+            "Cuando el solicitante no acuda al trámite",
+            "Cuando sean días lluviosos"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"47",
+        "pregunta": "Las ambulancias, patrullas de policía y los vehículos de bomberos tienen preferencia de paso, siempre y cuando:",
+        "opciones": [
+            "Siempre que lo necesiten",
+            "Circulen con la sirena o con la torreta luminosa y encendida",
+            "Circulen con la sirena o con la torreta luminosa y apagada"
+        ],
+        "respuesta": "2"
+    },
+    {
+        "id":"48",
+        "pregunta": "¿Qué se debe hacer cuando los conductores pretendan incorporarse a una vía primaria?",
+        "opciones": [
+            "No dejarlos pasar",
+            "Ceder el paso a los vehículos que se quieren incorporar",
+            "Ceder el paso a los vehículos que circulen por la misma"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"49",
+        "pregunta": "¿Por dónde queda prohibido rebasar a otro vehículo?",
+        "opciones": [
+            "Por el acotamiento",
+            "Por carriles centrales",
+            "Por la noche"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"50",
+        "pregunta": "¿Cómo deben de actuar los conductores de vehículos implicados en accidentes donde resulten personas lesionadas o fallecidas?",
+        "opciones": [
+            "Avisar a las autoridades y luego abandonar el lunar de los hechos",
+            "Escapar del lugar antes de que lleguen las autoridades",
+            "Permanecer en el lugar del accidente para prestar o facilitar asistencia al lesionado o lesionados, procurando que se dé aviso al personal de auxilio y autoridad competente"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"51",
+        "pregunta": "¿Cuál es el objeto de las señales preventivas?",
+        "opciones": [
+            "Advertir la existencia y naturaleza de una prohibición en la vía pública",
+            "Advertir la existencia y naturaleza de un peligro o cambio de situación en la vía pública",
+            "Indican información al conductor"
+        ],
+        "respuesta": "2"
+    },
+    {
+        "id":"52",
+        "pregunta": "¿En qué caso se permite estacionarse en segunda fila?",
+        "opciones": [
+            "En ningún caso",
+            "En caso de ser necesario",
+            "Cuando no afecta la vialidad"
+        ],
+        "respuesta": "1"
+    },
+    {
+        "id":"53",
+        "pregunta": "Indique cuál es la condición para que los vehículos puedan realizar el ascenso y descenso de pasajeros",
+        "opciones": [
+            "Que el vehículo tenga la puerta abierta",
+            "Que el vehículo este apagado",
+            "Que el vehículo esté sin movimiento"
+        ],
+        "respuesta": "3"
+    },
+    {
+        "id":"54",
+        "pregunta": "¿Cuál es el objeto de las señales informativas?",
+        "opciones": [
+            "Servir para advertir de un peligro",
+            "Servir para advertir una restricción en el camino",
+            "Servir de guía para localizar o identificar calles, carreteras, nombres de poblaciones y lugares de interés con servicios existentes. "
+        ],
+        "respuesta": "3"
+    }
+]
+
+
